@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Mission%20Kumar/Desktop/16-e-commerce/next-app/app/page.tsx"],"sourcesContent":["import React from 'react'\n\nconst page = () => {\n  return (\n   <main className='main-container'>\n    <section className='home-grid'>\n      <p>Coin Overview</p>\n      <p>Trending Coins</p>\n    </section>\n\n    <section className='w-full mt-7 space-y-4'>\n      <p>Categories</p>\n    </section>\n   </main>\n  )\n}\n\nexport default page\n"],"names":["page","className"],"mappings":";;;;;;AAEA,MAAMA,OAAO;IACX,qBACC,8OAAC;QAAKC,WAAU;;0BACf,8OAAC;gBAAQA,WAAU;;kCACjB,8OAAC;kCAAE;;;;;;kCACH,8OAAC;kCAAE;;;;;;;;;;;;0BAGL,8OAAC;gBAAQA,WAAU;0BACjB,cAAA,8OAAC;8BAAE;;;;;;;;;;;;;;;;;AAIT;uCAEeD"}}]
+}

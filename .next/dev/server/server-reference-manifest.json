@@ -1,0 +1,18 @@
+{
+  "node": {
+    "708b0d5b7a593ab8ff1769429cf2d7cbb2bd7434ba": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/coingecko.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "fetcher",
+          "filename": "lib/coingecko.action.ts"
+        }
+      },
+      "filename": "lib/coingecko.action.ts",
+      "exportedName": "fetcher"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "rUNup/U67LKVlYHT8fboR8f+qtxfAj/nVamL+5JFWjU="
+}
