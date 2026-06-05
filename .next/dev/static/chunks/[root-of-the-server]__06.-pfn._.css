@@ -4,7 +4,16 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/8a480f0b521d4e75-s.06d3mdzz5bre_.woff2") format("woff2");
+  src: url("../media/fef07dbb0973bf53-s.12tyk43_3sh9u.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Geist;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../media/8a480f0b521d4e75-s.0jzbimsg8vl84.woff2") format("woff2");
   unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
 }
 
@@ -13,7 +22,16 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/7178b3e590c64307-s.11.cyxs5p-0z~.woff2") format("woff2");
+  src: url("../media/53b9e256198e5412-s.0-wfv7uh4i7h9.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Geist;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../media/7178b3e590c64307-s.0nx0ww8fni_q3.woff2") format("woff2");
   unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
@@ -22,7 +40,7 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2") format("woff2");
+  src: url("../media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2") format("woff2");
   unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
@@ -50,7 +68,16 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/4fa387ec64143e14-s.0q3udbd2bu5yp.woff2") format("woff2");
+  src: url("../media/5ce348bf30bf5439-s.0ee55_hj9qcer.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Geist Mono;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../media/4fa387ec64143e14-s.0.qu-9752pffj.woff2") format("woff2");
   unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
 }
 
@@ -59,7 +86,25 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/bbc41e54d2fcbd21-s.0gw~uztddq1df.woff2") format("woff2");
+  src: url("../media/6306c77e7c8268e4-s.0mao5jbfbduzp.woff2") format("woff2");
+  unicode-range: U+2000-2001, U+2004-2008, U+200A, U+23B8-23BD, U+2500-259F;
+}
+
+@font-face {
+  font-family: Geist Mono;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../media/7d817b4c03b0c5f1-s.0uzt.a6d44yda.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Geist Mono;
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../media/bbc41e54d2fcbd21-s.0mvwgmnhv29no.woff2") format("woff2");
   unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
@@ -68,7 +113,7 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("../media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2") format("woff2");
+  src: url("../media/797e433ab948586e-s.p.09zddjkbdep5a.woff2") format("woff2");
   unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
@@ -144,7 +189,6 @@
 
 @layer theme {
   :root, :host {
-    --color-red-400: #ff6568;
     --color-green-600: #00a544;
     --color-gray-400: #99a1af;
     --color-gray-800: #1e2939;
@@ -184,7 +228,6 @@
 
   @supports (color: lab(0% 0 0)) {
     :root, :host {
-      --color-red-400: lab(63.7053% 60.7449 31.3109);
       --color-green-600: lab(59.0978% -58.6621 41.2579);
       --color-gray-400: lab(65.9269% -.832707 -8.17474);
       --color-gray-800: lab(16.1051% -1.18239 -11.7533);
@@ -2451,10 +2494,6 @@
     inset-inline-start: var(--spacing);
   }
 
-  .end {
-    inset-inline-end: var(--spacing);
-  }
-
   .container {
     width: 100%;
   }
@@ -2706,16 +2745,6 @@
     background-color: var(--color-gray-800);
   }
 
-  .bg-green-500\/10 {
-    background-color: var(--green-500);
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .bg-green-500\/10 {
-      background-color: color-mix(in oklab, var(--green-500) 10%, transparent);
-    }
-  }
-
   .bg-muted\/50 {
     background-color: var(--muted);
   }
@@ -2732,16 +2761,6 @@
 
   .bg-purple-600 {
     background-color: var(--purple-600);
-  }
-
-  .bg-red-500\/10 {
-    background-color: var(--red-500);
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .bg-red-500\/10 {
-      background-color: color-mix(in oklab, var(--red-500) 10%, transparent);
-    }
   }
 
   .bg-secondary {
@@ -2831,10 +2850,6 @@
     color: var(--color-gray-400);
   }
 
-  .text-green-400 {
-    color: var(--green-400);
-  }
-
   .text-green-500 {
     color: var(--green-500);
   }
@@ -2853,10 +2868,6 @@
 
   .text-purple-100 {
     color: var(--purple-100);
-  }
-
-  .text-red-400 {
-    color: var(--color-red-400);
   }
 
   .text-red-500 {
